@@ -1,5 +1,5 @@
-<H3>Name : Pradeep E</H3>
-<H3>Register no: 212223230149</H3>
+<H3>Name : VESLIN ANISH A</H3>
+<H3>Register no: 212223240175</H3>
 <H3>Experiment No. 2 </H3>
 <H3>
 Implementation of Perceptron for Binary Classification
